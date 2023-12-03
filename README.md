@@ -7,7 +7,7 @@ Wolt, a popular online food delivery company, recognizes the importance of under
         [Project on Google Colab](https://colab.research.google.com/drive/12mjgWa8PRTxM7QZAK3otMHETBqINKnyq?usp=sharing)
 
 ## Objective
-To accomplish this goal, I'm performing an RFM (Recency, Frequency, Monetary) analysis. This analysis will allow them to segment their users into distinct groups based on their purchasing behavior, such as the frequency of orders, the amount spent, and how recently they placed their last order. By doing so, Wolt can identify its most valuable customers and determine the areas that require more attention to retain them.
+To accomplish this goal, I'm performing an RFM (Recency, Frequency, Monetary) analysis and Clustering. This analysis will allow them to segment their users into distinct groups based on their purchasing behavior, such as the frequency of orders, the amount spent, and how recently they placed their last order. By doing so, Wolt can identify its most valuable customers and determine the areas that require more attention to retain them.
 
 ## Main Libraries
 <p align="left">  
